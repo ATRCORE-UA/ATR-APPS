@@ -1,6 +1,6 @@
 # ATR-APPS
 
-![logo](https://atrcore-ua.github.io/ATR-APPS/1e9sM7ZMSlN2g0U55THHp3KsSOwWXQJERwSY84SQEdQYuBXpe8CqKWOMxfDa4goE.png)
+![atrapps-logo](https://atrcore-ua.github.io/ATR-APPS/1e9sM7ZMSlN2g0U55THHp3KsSOwWXQJERwSY84SQEdQYuBXpe8CqKWOMxfDa4goE.png)
 
 Дякуємо, що обрали ATR-APPS - ваш найзручніший спосіб отримати доступ до великої кількості програм для Android та Windows.
 
