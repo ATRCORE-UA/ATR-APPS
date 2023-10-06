@@ -1,6 +1,6 @@
 # ATR-APPS
 
-![ATR-APPS Logo](http://atr-apps.ezyro.com/1e9sM7ZMSlN2g0U55THHp3KsSOwWXQJERwSY84SQEdQYuBXpe8CqKWOMxfDa4goE.png, "logo")
+![logo](http://atr-apps.ezyro.com/1e9sM7ZMSlN2g0U55THHp3KsSOwWXQJERwSY84SQEdQYuBXpe8CqKWOMxfDa4goE.png)
 
 Дякуємо, що обрали ATR-APPS - ваш найзручніший спосіб отримати доступ до великої кількості програм для Android та Windows.
 
@@ -19,7 +19,7 @@ ATR-APPS - це інноваційний та високоякісний маг�
 ## Вимоги
 
 - Android: версія 6.0 і вище (неорганізовано)
-- Windows: версія 10
+- Windows: версія 10 і вище (x64)
 
 ## Як почати
 
